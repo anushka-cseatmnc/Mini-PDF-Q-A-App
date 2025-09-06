@@ -1,6 +1,6 @@
 # Mini PDF Q&A App
 
-'''A Next.js application that allows users to upload PDF files and ask questions about their content using OpenAI's API and RAG (Retrieval-Augmented Generation) approach.'''
+'''A Next.js application that allows users to upload PDF files and ask questions about their content using OpenAI's API and RAG (Retrieval-Augmented Generation) approach'''
 
 ## Features
 
