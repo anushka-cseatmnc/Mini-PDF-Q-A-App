@@ -93,13 +93,13 @@ A Next.js application that allows users to upload PDF files and ask questions ab
 Mini-PDF-Q-A-App/
 ├── app/
 │   ├── api/
-│   │   ├── upload/
-│   │   └── chat/
+│   │   ├── upload/route.js
+│   │   └── chat/route.js
 │   ├── components/
-│   └── page.tsx
+│   └── page.js
 ├── lib/
-│   ├── openai.ts
-│   └── vectordb.ts
+│   ├── openai.js
+│   └── vectordb.js
 ├── package.json
 └── README.md
 ```
